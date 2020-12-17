@@ -1,0 +1,5 @@
+OBJECT_BASE 5363195.btg
+OBJECT AYMO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 147.421823 -2.053342 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 147.426489 -2.070464 6.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 147.425499 -2.061436 4.6 0.00
